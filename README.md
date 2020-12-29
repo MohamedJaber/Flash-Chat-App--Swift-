@@ -11,3 +11,11 @@
 * Created a direct Segues for navigation.
 
 ![Chat App](Documentation/Chat1.jpeg)
+
+![Chat App](Documentation/Chat2.jpeg)
+
+![Chat App](Documentation/Chat3.jpeg)
+
+![Chat App](Documentation/Chat4.jpeg)
+
+![Chat App](Documentation/Chat5.jpeg)
